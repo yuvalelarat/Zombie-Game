@@ -42,10 +42,13 @@ shoot 2 bullets and he's dead.
 
 Each kill gives +5 more score.
 
-While the player is alive he have bullets. if he's running out of ammo, a pack of ammo will apear in a random place on the map: 
+While the player is alive he have bullets. if he's running out of ammo, a pack of ammo will apear in a random place on the map: ![ammo-Image](https://github.com/yuvalelarat/Zombie-Game/assets/102436759/004872ab-c516-4471-a933-b21b66a1ed1a)
 
 
-If the player running out of health, a health pack will apear in a random place on the map: 
+
+If the player running out of health, a health pack will apear in a random place on the map: ![Health Pack](https://github.com/yuvalelarat/Zombie-Game/assets/102436759/a3a2f2cd-e460-441d-9339-9093bce206eb)
 
 
-The game ends when the player running out of health and dies: 
+
+The game ends when the player running out of health and dies: ![newDead](https://github.com/yuvalelarat/Zombie-Game/assets/102436759/3f2541e1-c040-4f3e-9ecc-cf9d7728b5e3)
+
