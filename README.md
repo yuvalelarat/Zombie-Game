@@ -15,7 +15,7 @@ TYPE 1 - REGULAR ZOMBIE: ![zombieRight](https://github.com/yuvalelarat/Zombie-Ga
 
 This type is a "normal" zombie, nothing special.
 
-shoot 1 bullet and he's dead.
+Shoot 1 bullet and he's dead.
 
 Each kill gives +1 more score.
 
@@ -38,7 +38,7 @@ This type is an "abnormal" type of zombie, he moves slower than regular zombies 
 
 Special skill: When he's alive all the zombies can move faster.
 
-shoot 2 bullets and he's dead.
+Shoot 2 bullets and he's dead.
 
 Each kill gives +5 more score.
 
