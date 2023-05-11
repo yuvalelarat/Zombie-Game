@@ -38,7 +38,7 @@ This type is an "abnormal" type of zombie, he moves slower than regular zombies 
 
 Special skill: When he's alive all the zombies can move faster.
 
-Shoot 2 bullets and he's dead.
+Shoot 3 bullets and he's dead.
 
 Each kill gives +5 more score.
 
