@@ -40,7 +40,7 @@ Special skill: When he's alive all the zombies can move faster.
 
 shoot 2 bullets and he's dead.
 
-Each kill gives +2 more score.
+Each kill gives +5 more score.
 
 While the player is alive he have bullets. if he's running out of ammo, a pack of ammo will apear in a random place on the map: 
 
