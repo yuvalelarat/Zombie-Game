@@ -34,7 +34,7 @@ Each kill gives +2 more score.
 
 TYPE 3 - TANK ZOMBIE: ![TankZombieRight](https://github.com/yuvalelarat/Zombie-Game/assets/102436759/f03bfb18-46eb-4eb8-b966-e304f5432eb9)
 
-This type is an "abnormal" type of zombie, he moves slower than regular zombies but his damage is way bigger - stay away at any cost.
+This type is an "abnormal" type of zombie, he moves slower than regular zombies but his damage is way higher - stay away at any cost.
 
 Special skill: When he's alive all the zombies can move faster.
 
