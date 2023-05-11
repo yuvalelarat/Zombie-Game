@@ -28,7 +28,7 @@ This type is an "abnormal" type of zombie, he can move faster than regular zombi
 Special skill: Spawns traps that can damage you in random places, this is how the trap looks like: ![DeathStep](https://github.com/yuvalelarat/Zombie-Game/assets/102436759/09bc0016-0b89-4d2c-9800-8ba69d5b90ce)
 
 
-shoot 2 bullets and he's dead.
+Shoot 2 bullets and he's dead.
 
 Each kill gives +2 more score.
 
