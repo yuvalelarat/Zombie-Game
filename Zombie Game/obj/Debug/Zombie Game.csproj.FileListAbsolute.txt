@@ -1,0 +1,22 @@
+D:\Games\Zombie Game\bin\Debug\Zombie Game.exe.config
+D:\Games\Zombie Game\bin\Debug\Zombie Game.exe
+D:\Games\Zombie Game\bin\Debug\Zombie Game.pdb
+D:\Games\Zombie Game\obj\Debug\Zombie Game.csproj.AssemblyReference.cache
+D:\Games\Zombie Game\obj\Debug\Zombie Game.csproj.SuggestedBindingRedirects.cache
+D:\Games\Zombie Game\obj\Debug\Zombie_Game.ZombieGame.resources
+D:\Games\Zombie Game\obj\Debug\Zombie_Game.Properties.Resources.resources
+D:\Games\Zombie Game\obj\Debug\Zombie Game.csproj.GenerateResource.cache
+D:\Games\Zombie Game\obj\Debug\Zombie Game.csproj.CoreCompileInputs.cache
+D:\Games\Zombie Game\obj\Debug\Zombie Game.exe
+D:\Games\Zombie Game\obj\Debug\Zombie Game.pdb
+E:\אחסון שלי\מסמכים חשובים\לימודים\תואר ראשון מדעי המחשב\תכנות מונחה עצמים\C# Project\Zombie-Game\Zombie Game\bin\Debug\Zombie Game.exe.config
+E:\אחסון שלי\מסמכים חשובים\לימודים\תואר ראשון מדעי המחשב\תכנות מונחה עצמים\C# Project\Zombie-Game\Zombie Game\bin\Debug\Zombie Game.exe
+E:\אחסון שלי\מסמכים חשובים\לימודים\תואר ראשון מדעי המחשב\תכנות מונחה עצמים\C# Project\Zombie-Game\Zombie Game\bin\Debug\Zombie Game.pdb
+E:\אחסון שלי\מסמכים חשובים\לימודים\תואר ראשון מדעי המחשב\תכנות מונחה עצמים\C# Project\Zombie-Game\Zombie Game\obj\Debug\Zombie Game.csproj.AssemblyReference.cache
+E:\אחסון שלי\מסמכים חשובים\לימודים\תואר ראשון מדעי המחשב\תכנות מונחה עצמים\C# Project\Zombie-Game\Zombie Game\obj\Debug\Zombie Game.csproj.SuggestedBindingRedirects.cache
+E:\אחסון שלי\מסמכים חשובים\לימודים\תואר ראשון מדעי המחשב\תכנות מונחה עצמים\C# Project\Zombie-Game\Zombie Game\obj\Debug\Zombie_Game.ZombieGame.resources
+E:\אחסון שלי\מסמכים חשובים\לימודים\תואר ראשון מדעי המחשב\תכנות מונחה עצמים\C# Project\Zombie-Game\Zombie Game\obj\Debug\Zombie_Game.Properties.Resources.resources
+E:\אחסון שלי\מסמכים חשובים\לימודים\תואר ראשון מדעי המחשב\תכנות מונחה עצמים\C# Project\Zombie-Game\Zombie Game\obj\Debug\Zombie Game.csproj.GenerateResource.cache
+E:\אחסון שלי\מסמכים חשובים\לימודים\תואר ראשון מדעי המחשב\תכנות מונחה עצמים\C# Project\Zombie-Game\Zombie Game\obj\Debug\Zombie Game.csproj.CoreCompileInputs.cache
+E:\אחסון שלי\מסמכים חשובים\לימודים\תואר ראשון מדעי המחשב\תכנות מונחה עצמים\C# Project\Zombie-Game\Zombie Game\obj\Debug\Zombie Game.exe
+E:\אחסון שלי\מסמכים חשובים\לימודים\תואר ראשון מדעי המחשב\תכנות מונחה עצמים\C# Project\Zombie-Game\Zombie Game\obj\Debug\Zombie Game.pdb
