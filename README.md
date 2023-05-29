@@ -1,5 +1,5 @@
 # Zombie-Game
-Zombies game for OOP course with C# WinForms
+Zombie game for OOP course with C# WinForms
 
 This is a simple zombie game - you need to shoot the zombies!
 
@@ -46,7 +46,7 @@ While the player is alive he have bullets. if he's running out of ammo, a pack o
 
 
 
-If the player running out of health, a health pack will apear in a random place on the map: ![Health Pack](https://github.com/yuvalelarat/Zombie-Game/assets/102436759/a3a2f2cd-e460-441d-9339-9093bce206eb)
+If the player is running out of health, a health pack will apear in a random place on the map: ![Health Pack](https://github.com/yuvalelarat/Zombie-Game/assets/102436759/a3a2f2cd-e460-441d-9339-9093bce206eb)
 
 
 
