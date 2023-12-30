@@ -55,6 +55,10 @@ The game ends when the player running out of health and dies: ![newDead](https:/
 
 
 Video gameplay:
-https://github.com/yuvalelarat/Zombie-Game/assets/102436759/a60eccf8-d33b-47fd-ba80-ffab0d23f5b1
+
+
+
+https://github.com/yuvalelarat/Zombie-Game/assets/102436759/e2ca1924-704b-416d-8235-f0a919c38e07
+
 
 
