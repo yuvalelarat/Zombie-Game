@@ -52,3 +52,9 @@ If the player is running out of health, a health pack will apear in a random pla
 
 The game ends when the player running out of health and dies: ![newDead](https://github.com/yuvalelarat/Zombie-Game/assets/102436759/3f2541e1-c040-4f3e-9ecc-cf9d7728b5e3)
 
+
+
+Video gameplay:
+https://github.com/yuvalelarat/Zombie-Game/assets/102436759/a60eccf8-d33b-47fd-ba80-ffab0d23f5b1
+
+
